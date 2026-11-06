@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Netflix.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Netflix.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VideoService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/VideoService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/encodingservice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/encodingservice.main.iml" />
+    </modules>
+  </component>
+</project>

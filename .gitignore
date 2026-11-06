@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Secrets
+secrets/
+*.pem
+*.key
+
+# Spring Boot configuration containing credentials
+**/src/main/resources/application.properties
+**/src/main/resources/application-local.properties
+**/src/main/resources/application-secret.properties
+
+# Logs
+*.log
+
+# Build files
+target/
+build/
